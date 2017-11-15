@@ -1,6 +1,8 @@
 # classnames-undefined
 Wrap the classnames package for better behavior for react16
 
+[![Build Status](https://travis-ci.org/zordius/classnames-undefined.svg?branch=master)](https://travis-ci.org/zordius/classnames-undefined)
+
 ## Install
 ```
 npm install --save classnames-undefined
