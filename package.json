@@ -1,0 +1,30 @@
+{
+  "name": "classnames-undefined",
+  "version": "1.0.0",
+  "description": "Wrap the classnames package for better behavior for react16",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zordius/classnames-undefined.git"
+  },
+  "keywords": [
+    "classnames",
+    "react",
+    "undefined"
+  ],
+  "author": "Zordius Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zordius/classnames-undefined/issues"
+  },
+  "homepage": "https://github.com/zordius/classnames-undefined#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "classnames": "2.2.5"
+  }
+}
