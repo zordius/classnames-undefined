@@ -1,7 +1,7 @@
 # classnames-undefined
 Wrap the classnames package for better behavior for react16
 
-[![Build Status](https://travis-ci.org/zordius/classnames-undefined.svg?branch=master)](https://travis-ci.org/zordius/classnames-undefined)
+[![Build Status](https://travis-ci.org/zordius/classnames-undefined.svg?branch=master)](https://travis-ci.org/zordius/classnames-undefined) [![License](https://poser.pugx.org/zordius/classnames-undefined/license.svg)](https://github.com/zordius/classnames-undefined/blob/master/LICENSE.md)
 
 ## Install
 ```
